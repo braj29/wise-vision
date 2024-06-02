@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+geopandas
+rasterio
+fiona
+shapely
+opencv-python
+gradio
+deepforest
+matplotlib
+keras
+tensorflow
+openpyxl
+
+
