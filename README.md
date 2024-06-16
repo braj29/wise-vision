@@ -12,6 +12,10 @@ pinned: false
 license: mit
 This project is result of submission to the ETH AI Center GainForest Hackathon for XPrize.
 
+The APP is hosted on HuggingFace Spaces, check out: https://huggingface.co/spaces/TeamWiseVision/Wise-Vision-App . (PS: Due to some git issues the data for classification was not fully added hence the pipeline is not fully complete)
+
+You can also find full details in the poster created for this project in this repo's root directory.
+
 The project repository contains Deepforest and DETECT-TREE2 models, which are image segmentation models.
 
 Initially, the App asks user to upload an .jpb Panoramic image, it is automatically segmented and the output is a excel file with co-ordinates.
