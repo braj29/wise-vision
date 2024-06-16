@@ -10,7 +10,8 @@ sdk_version: 1.35.0
 app_file: app.py
 pinned: false
 license: mit
-This project is result of submission to the ETH AI Center GainForest Hackathon for XPrize.
+
+This project is result of submission to the ETH AI Center GainForest Hackathon for XPrize. This project and its dataset is selected among 3 others for preprocessing for the XPRIZE Finale (8 others selected for deployment) by the BiodivX Team (one of the six finalists for the $ 10M XPRIZE)
 
 The APP is hosted on HuggingFace Spaces, check out: https://huggingface.co/spaces/TeamWiseVision/Wise-Vision-App . (PS: Due to some git issues the data for classification was not fully added hence the pipeline is not fully complete)
 
